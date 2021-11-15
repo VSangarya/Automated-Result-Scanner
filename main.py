@@ -11,7 +11,6 @@ import playsound
 from TextExtract import crop,textExtract
 
 
-
 firefox_browser = webdriver.Firefox(executable_path=r'C:\Program Files\gecko\geckodriver.exe')
 
 
